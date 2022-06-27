@@ -1,0 +1,9 @@
+.IPP {
+  display: flex;
+  width: 80vw;
+  margin: 2rem auto;
+  justify-content: space-between;
+}
+.searchbar {
+  transform: translateY(0.5rem);
+}

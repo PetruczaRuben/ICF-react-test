@@ -1,0 +1,14 @@
+.ArtworkCard {
+  height: fit-content;
+  margin-bottom: 1rem;
+}
+.Chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  justify-content: center;
+}
+.CardCta {
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,20 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem auto;
+  margin-bottom: 5rem;
+  width: 80%;
+  list-style-type: none;
+}
+.Logo {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.Bookmarks {
+  font-size: 2rem;
+  font-weight: bold;
+}
+li a {
+  color: black;
+  text-decoration-line: none;
+}
